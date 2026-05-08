@@ -30,6 +30,8 @@ I'm currently improving my backend engineering skills around distributed systems
 
 I'm currently working on a public backend project to demonstrate API design, asynchronous processing, clean architecture, tests and Docker-based local development.
 
+Most of my day-to-day engineering work happens in private repositories under a separate work account. This profile focuses on public projects, selected case studies and personal learning projects.
+
 ## Contact
 
 - [Portfolio](https://armandogarridodev.vercel.app/)
